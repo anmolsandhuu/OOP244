@@ -1,0 +1,11 @@
+1) It says that "unresolved external symbol" and  if move all functions to Data.h, it will compile
+
+2) It works, but it should be above on the main function
+
+3)  We can use parameter regardless of the parameter type if we are using template.
+
+4) Yes, they are the same
+
+
+Anmol Sandhu
+135051175
