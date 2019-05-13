@@ -1,0 +1,12 @@
+1> A namespace is a declarative region which gives a scope to all the ideantifiers which include functions, variables, types. 
+
+
+2> Header files contains the prototypes of functions or they contains the predefiened function instructions and if we dont include them it not possible for the compiler to perform the basic ouput and inout function and it will prompt an error.
+
+
+3> We only complie the main C++ file and the implementation file and we include the header files in those files so there is no need to compile the header files and header files may or may not contain alot of other function definations which we do not need and dont have proper definitions for so compliling them will give us some error.
+
+
+4> The compiler automatically compiles the main CPP file and then the implementation files in which we have included the header files which includes the definitions of the funcion.
+
+5> In this workshop i have learned how to compile all the different implementation files and header files and and how the namespace work and how it creates different scope so that we we can ignore the fact if some other programmer uses the same variables. 

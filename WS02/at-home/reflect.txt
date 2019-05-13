@@ -1,0 +1,5 @@
+ Well as far as i understood, we have only one element in the family and have given name for that account.We are told to store one element in each member.
+
+2.That feature is called overlaoding and it allows us to have 2 functions in the same scope with same name, although we can have differernt definitions for them.
+
+3.We have learned to have a class with private and public data members and how to access the private data members with the data functions and we have learned about overloading.
