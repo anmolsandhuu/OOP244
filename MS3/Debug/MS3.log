@@ -1,0 +1,32 @@
+﻿  244_ms3_tester_prof.cpp
+e:\semester_2\oop244\ms3\244_ms3_tester_prof.cpp(27): error C2065: 'constructor': undeclared identifier
+e:\semester_2\oop244\ms3\244_ms3_tester_prof.cpp(27): error C2182: '__attribute__': illegal use of type 'void'
+e:\semester_2\oop244\ms3\244_ms3_tester_prof.cpp(27): error C2146: syntax error: missing ';' before identifier 'ctor'
+e:\semester_2\oop244\ms3\244_ms3_tester_prof.cpp(27): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+e:\semester_2\oop244\ms3\244_ms3_tester_prof.cpp(27): warning C4508: 'ctor': function should return a value; 'void' return type assumed
+e:\semester_2\oop244\ms3\244_ms3_tester_prof.cpp(28): error C2065: 'destructor': undeclared identifier
+e:\semester_2\oop244\ms3\244_ms3_tester_prof.cpp(28): error C2182: '__attribute__': illegal use of type 'void'
+e:\semester_2\oop244\ms3\244_ms3_tester_prof.cpp(28): error C2374: '__attribute__': redefinition; multiple initialization
+  e:\semester_2\oop244\ms3\244_ms3_tester_prof.cpp(27): note: see declaration of '__attribute__'
+e:\semester_2\oop244\ms3\244_ms3_tester_prof.cpp(28): error C2146: syntax error: missing ';' before identifier 'dtor'
+e:\semester_2\oop244\ms3\244_ms3_tester_prof.cpp(28): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+e:\semester_2\oop244\ms3\244_ms3_tester_prof.cpp(28): warning C4508: 'dtor': function should return a value; 'void' return type assumed
+  ErrorState.cpp
+e:\semester_2\oop244\ms3\errorstate.cpp(17): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(337): note: see declaration of 'strncpy'
+e:\semester_2\oop244\ms3\errorstate.cpp(42): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(337): note: see declaration of 'strncpy'
+  ms3_tester.cpp
+  MyProduct.cpp
+  Product.cpp
+e:\semester_2\oop244\ms3\product.cpp(21): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(337): note: see declaration of 'strncpy'
+e:\semester_2\oop244\ms3\product.cpp(92): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(337): note: see declaration of 'strncpy'
+e:\semester_2\oop244\ms3\product.cpp(93): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(337): note: see declaration of 'strncpy'
+e:\semester_2\oop244\ms3\product.cpp(114): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(337): note: see declaration of 'strncpy'
+e:\semester_2\oop244\ms3\product.cpp(115): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(337): note: see declaration of 'strncpy'
+  Generating Code...
