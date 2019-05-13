@@ -1,0 +1,7 @@
+1. No it does not, Superhero is a derived class from Hero
+2. Yes it does need to know, Superhero cannot exist without Hero class. 
+3. Ancient Battle
+4. yes both are valid.
+
+Anmol Sandhu
+135051175
